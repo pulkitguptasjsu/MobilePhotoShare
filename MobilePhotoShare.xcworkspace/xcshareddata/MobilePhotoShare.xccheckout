@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2FF21EE7-E656-4330-96DB-E3669A58DDA3</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MobilePhotoShare</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B314DA2F3C5B2B901F73EAD4D0465A4F0956ECFC</key>
+		<string>https://github.com/awslabs/reinvent2013-mobile-photo-share.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MobilePhotoShare.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B314DA2F3C5B2B901F73EAD4D0465A4F0956ECFC</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/awslabs/reinvent2013-mobile-photo-share.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B314DA2F3C5B2B901F73EAD4D0465A4F0956ECFC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B314DA2F3C5B2B901F73EAD4D0465A4F0956ECFC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>reinvent2013-mobile-photo-share</string>
+		</dict>
+	</array>
+</dict>
+</plist>
